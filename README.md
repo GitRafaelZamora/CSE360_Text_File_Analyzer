@@ -1,22 +1,20 @@
 # CSE360_Text_File_Analyzer
 A simple text file analyzer. 
 
-
-
-General Requirements
+General Requirements:
  
-Text Files Analyzer
+# Text Files Analyzer
  
 1.      GUI
 2.      Opening and validating file names
 3.      Reading text from file and reporting
-a.      # lines
-b.      # blank lines
-c.      # spaces
-d.      # words
-e.      Average chars per line
-f.       Average word length
-g.      Most common words
+ a.      # lines
+ b.      # blank lines
+ c.      # spaces
+ d.      # words
+ e.      Average chars per line
+ f.       Average word length
+ g.      Most common words
 4.      Help information
 5.      Removing punctuation and possession from analysis
 6.      Handling multiple files
