@@ -5,27 +5,27 @@ General Requirements:
  
 # Text Files Analyzer
  
-* 1.      GUI
-* 2.      Opening and validating file names
-* 3.      Reading text from file and reporting
-** a.      # lines
-** b.      # blank lines
-** c.      # spaces
-** d.      # words
-** e.      Average chars per line
-** f.       Average word length
-** g.      Most common words
-* 4.      Help information
-* 5.      Removing punctuation and possession from analysis
-* 6.      Handling multiple files
-* a.      Reporting history of all files processed (name and date)
-* b.      Averages across files
+*      GUI
+*      Opening and validating file names
+*      Reading text from file and reporting
+**      # lines
+**      # blank lines
+**      # spaces
+**      # words
+**      Average chars per line
+**       Average word length
+**      Most common words
+*      Help information
+*      Removing punctuation and possession from analysis
+*      Handling multiple files
+*      Reporting history of all files processed (name and date)
+*      Averages across files
  
 Non-functional
-1.      Creating use case scenarios
-2.      Creating class diagrams
-3.      Testing planning with data
-4.      Using bitbucket
+      Creating use case scenarios
+      Creating class diagrams
+      Testing planning with data
+      Using bitbucket
  
 Project schedule
  
