@@ -5,21 +5,21 @@ General Requirements:
  
 # Text Files Analyzer
  
-*      GUI
-*      Opening and validating file names
-*      Reading text from file and reporting
-**      # lines
-**      # blank lines
-**      # spaces
-**      # words
-**      Average chars per line
-**       Average word length
-**      Most common words
-*      Help information
-*      Removing punctuation and possession from analysis
-*      Handling multiple files
-*      Reporting history of all files processed (name and date)
-*      Averages across files
+      GUI
+      Opening and validating file names
+      Reading text from file and reporting
+      # lines
+      # blank lines
+      # spaces
+      # words
+      Average chars per line
+       Average word length
+      Most common words
+      Help information
+      Removing punctuation and possession from analysis
+      Handling multiple files
+      Reporting history of all files processed (name and date)
+      Averages across files
  
 Non-functional
       Creating use case scenarios
